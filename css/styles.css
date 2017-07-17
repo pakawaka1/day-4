@@ -1,0 +1,46 @@
+/*HEIGHT CLASSES*/
+
+.xs-height {
+  height: 20px;
+  margin-top: 20px;
+  background-color: #000;
+  margin-bottom: 20px;
+}
+
+.sm-height {
+  height: 60px;
+  background-color: #000;
+}
+
+.md-height {
+  height: 180px;
+  background-color: #000;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+.lg-height {
+  height: 540px;
+  background-color: #000;
+}
+
+/*CONTENT STYLES*/
+#outer {
+  margin-top: 40px;
+}
+
+.horizontal-gutter {
+  margin: 0 30px;
+  margin-top: 20px;
+}
+
+.jumbotron {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 28px;
+  margin-right: 65px;
+}
+
+#last {
+  margin-right:-40px;
+}
